@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farzamani
-- 👀 I’m interested in biomedical engineering and everything related :)
+- 👀 I’m interested in data science, bioinformatics, biomedical engineering, and everything related :)
 - 🌱 Currently studying bioinformatics, machine learning, and data science, especially in medical and health.
 - 📫 Reach me: zamfarhad@gmail.com
 
